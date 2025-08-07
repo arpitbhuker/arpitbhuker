@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **arpitkumarbhuker@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/134zlQqK0JrbJZUU2Ad_WEYfcuFvMNHTs/view?usp=drive_link](https://drive.google.com/file/d/134zlQqK0JrbJZUU2Ad_WEYfcuFvMNHTs/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/134zlQqK0JrbJZUU2Ad_WEYfcuFvMNHTs/view?usp=drive_link]
+  (https://drive.google.com/file/d/1XW0kTuAvxW3wrffj0dtESKB5u0KJDSMo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
