@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
-<h3 align="center">Currently pursuing B.E. CSE AIML at Chandigarh University. I'm from Charkhi Dadri, Haryana. I'm an AI/ML enthusiast with expertise in Python, SQL, Power BI, and data analysis, passionate about turning data into intelligent, actionable insights.</h3>
+<h3 align="center">Currently pursuing B.E. CSE AIML at Chandigarh University. I'm an AI/ML enthusiast with expertise in Python, SQL, Power BI and data analysis, passionate about turning data into intelligent, actionable insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbhuker&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbhuker" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpit_bhuker" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_bhuker?logo=twitter&style=for-the-badge" alt="arpit_bhuker" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, Data Analysis, Data Visualization, SQL**
+- 💬 Ask me about **Machine Learning, Python Data Analysis, Data Visualization, SQL**
 
 - 📫 How to reach me **arpitkumarbhuker@gmail.com**
 
