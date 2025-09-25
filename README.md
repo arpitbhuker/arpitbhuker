@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpit_bhuker" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_bhuker?logo=twitter&style=for-the-badge" alt="arpit_bhuker" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, Python Data Analysis, Data Visualization, SQL**
+- 💬 Ask me about **Machine Learning, Python, Data Analysis, Data Visualization, SQL**
 
 - 📫 How to reach me **arpitkumarbhuker@gmail.com**
 
