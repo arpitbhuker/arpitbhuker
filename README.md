@@ -2,9 +2,7 @@
 Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I'm an AI/ML enthusiast with expertise in Python, SQL, Power BI and data analysis, passionate about turning data into intelligent, actionable insights.
 
 - <br><br>💬 Ask me about Machine Learning, Python, Data Analysis, Data Visualization, SQL
-  
 - <br><br>📫 How to reach me arpitkumarbhuker@gmail.com
-  
 - <br><br>📄 Know about my experiences (https://drive.google.com/file/d/1UFySXK9erHHebfJ0jjPKkJv34fk49CAj/view?usp=drive_link)
 
 
@@ -14,8 +12,7 @@ Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arpitbhuker&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
