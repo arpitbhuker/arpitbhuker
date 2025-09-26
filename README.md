@@ -3,7 +3,8 @@ Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I
 - 💬 Ask me about Machine Learning, Python, Data Analysis, Data Visualization, SQL
 - 📫 How to reach me arpitkumarbhuker@gmail.com
 - 📄 Know about my experiences (https://drive.google.com/file/d/1UFySXK9erHHebfJ0jjPKkJv34fk49CAj/view?usp=drive_link)
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbhuker&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbhuker" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/profile.php?id=100088336587415) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/arpit_bhuker_07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/arpitbhuker/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/arpit_bhuker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitkumarbhuker@gmail.com) 
