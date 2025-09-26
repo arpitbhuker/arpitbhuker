@@ -15,17 +15,17 @@ Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arpitbhuker&theme=dark&hide_border=false"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=arpitbhuker&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 ## ✍️ Quote
