@@ -14,12 +14,15 @@ Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em"/>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arpitbhuker&theme=dark&hide_border=false"/>
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=arpitbhuker&theme=dark&hide_border=false)<br/>
 </p>
 
 ## 🏆 GitHub Trophies
