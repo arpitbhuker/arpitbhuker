@@ -1,34 +1,31 @@
-<h1 align="center">Hi 👋, I'm Arpit</h1>
-<h3 align="center">Currently pursuing B.E. CSE AIML at Chandigarh University. I'm an AI/ML enthusiast with expertise in Python, SQL, Power BI and data analysis, passionate about turning data into intelligent, actionable insights.</h3>
+# 💫 About Me:
+Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I'm an AI/ML enthusiast with expertise in Python, SQL, Power BI and data analysis, passionate about turning data into intelligent, actionable insights.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbhuker&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbhuker" /> </p>
+- <br><br>💬 Ask me about Machine Learning, Python, Data Analysis, Data Visualization, SQL
+  
+- <br><br>📫 How to reach me arpitkumarbhuker@gmail.com
+  
+- <br><br>📄 Know about my experiences (https://drive.google.com/file/d/1UFySXK9erHHebfJ0jjPKkJv34fk49CAj/view?usp=drive_link)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker" alt="arpitbhuker" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arpit_bhuker" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_bhuker?logo=twitter&style=for-the-badge" alt="arpit_bhuker" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/profile.php?id=100088336587415) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/arpit_bhuker_07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/arpitbhuker/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/arpit_bhuker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitkumarbhuker@gmail.com) 
 
-- 💬 Ask me about **Machine Learning, Python, Data Analysis, Data Visualization, SQL**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arpitbhuker&theme=dark&hide_border=false)<br/>
 
-- 📫 How to reach me **arpitkumarbhuker@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1UFySXK9erHHebfJ0jjPKkJv34fk49CAj/view?usp=drive_link)
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arpit_bhuker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_bhuker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpitbhuker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpitbhuker/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/arpitbhuker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arpitbhuker" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100088336587415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100088336587415" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arpit_bhuker_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arpit_bhuker_07/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/arpitbhuker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arpitbhuker/" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arpitbhuker&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitbhuker&show_icons=true&locale=en&layout=compact" alt="arpitbhuker" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitbhuker&show_icons=true&locale=en" alt="arpitbhuker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbhuker&" alt="arpitbhuker" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=arpitbhuker&icon=0&color=0)](https://visitcount.itsvg.in)
