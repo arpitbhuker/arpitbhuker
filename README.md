@@ -3,7 +3,7 @@ Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I
 - 💬 Ask me about Machine Learning, Python, Data Analysis, Data Visualization, SQL
 - 📫 How to reach me [![Email](https://img.shields.io/badge/Email-arpitkumarbhuker@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkumarbhuker@gmail.com)
 - 🌐 Visit my Portfolio: [![Website](https://img.shields.io/badge/Website-arpit--bhuker.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit-bhuker.vercel.app/)
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1UFySXK9erHHebfJ0jjPKkJv34fk49CAj/view?usp=drive_link)
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1YAls6EqMdVR8R5-At9twNxQJtCipPmYJ/view?usp=drive_link)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbhuker&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbhuker" /> </p>
