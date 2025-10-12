@@ -2,7 +2,7 @@
 Hi 👋, I'm Arpit. Currently pursuing B.E. CSE AIML at Chandigarh University. I'm an AI/ML enthusiast with expertise in Python, SQL, Power BI and data analysis, passionate about turning data into intelligent, actionable insights.
 - 💬 Ask me about Machine Learning, Python, Data Analysis, Data Visualization, SQL
 - 📫 How to reach me arpitkumarbhuker@gmail.com
-- 🌐 Visit my Data Lab / Portfolio: [![Website](https://img.shields.io/badge/Website-arpit--bhuker.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit-bhuker.vercel.app/)
+- 🌐 Visit my Portfolio: [![Website](https://img.shields.io/badge/Website-arpit--bhuker.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpit-bhuker.vercel.app/)
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1UFySXK9erHHebfJ0jjPKkJv34fk49CAj/view?usp=drive_link)
   
