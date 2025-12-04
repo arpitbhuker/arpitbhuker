@@ -17,19 +17,21 @@ I work with Python, SQL, Power BI, and machine learning to turn complex data int
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  height="140em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbhuker&theme=dark&hide_border=false"  height="140em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&cache_seconds=7200" height="140em"/>
 
+  <img src="https://streak-stats.demolab.com?user=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&layout=compact&cache_seconds=7200"/>
+</p>
 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&margin-w=4&cache=86400" />
+  </a>
 </p>
+
 
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
