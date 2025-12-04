@@ -19,7 +19,7 @@ I work with Python, SQL, Power BI, and machine learning to turn complex data int
 <p align="center">
   <img src="https://github-readme-stats-denvercoder1.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
 
-  <img src="https://streak-stats.demolab.com?user=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
+  <img src="https://streak-stats.demolab.com/?user=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
 
   <img src="https://github-readme-stats-denvercoder1.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&layout=compact" height="140em"/>
 </p>
