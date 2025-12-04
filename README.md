@@ -17,19 +17,16 @@ I work with Python, SQL, Power BI, and machine learning to turn complex data int
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.dev/api?username=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
+  <img src="https://github-readme-stats-denvercoder1.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
 
   <img src="https://streak-stats.demolab.com?user=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.dev/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&layout=compact" height="140em"/>
+  <img src="https://github-readme-stats-denvercoder1.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&layout=compact" height="140em"/>
 </p>
-
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&margin-w=4" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&margin-w=4" />
 </p>
 
 
