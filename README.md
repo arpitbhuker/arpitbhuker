@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Arpit — an AI/ML enthusiast focused on building intelligent, data-driven solutions.
+Hi 👋, I'm Arpit — an AI/ML enthusiast focused on building intelligent, data-driven solutions.<br>
 I work with Python, SQL, Power BI, and machine learning to turn complex data into clear, actionable insights. I’ve also explored modern web development through my portfolio and a stock-analysis platform, gaining practical experience with React, Tailwind, and light backend integration. I’m driven by curiosity, problem-solving, and the pursuit of smart, scalable systems.
 - 💬 Ask me about Machine Learning, Python, Data Analysis, Data Visualization, SQL, Power BI
 - 📫 How to reach me [![Email](https://img.shields.io/badge/Email-arpitkumarbhuker@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkumarbhuker@gmail.com)
@@ -17,18 +17,18 @@ I work with Python, SQL, Power BI, and machine learning to turn complex data int
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitbhuker&theme=dark&hide_border=false&cache_seconds=7200" height="140em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.dev/api?username=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
 
   <img src="https://streak-stats.demolab.com?user=arpitbhuker&theme=dark&hide_border=false" height="140em"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&layout=compact&cache_seconds=7200"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.dev/api/top-langs/?username=arpitbhuker&theme=dark&hide_border=false&layout=compact" height="140em"/>
 </p>
 
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&margin-w=4&cache=86400" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arpitbhuker&theme=radical&margin-w=4" />
   </a>
 </p>
 
