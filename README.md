@@ -4,7 +4,7 @@ I work with Python, SQL, Power BI, and machine learning to turn complex data int
 - 💬 Ask me about Machine Learning, Python, Data Analysis, Data Visualization, SQL, Power BI
 - 📫 How to reach me [![Email](https://img.shields.io/badge/Email-arpitkumarbhuker@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkumarbhuker@gmail.com)
 - 🌐 Visit my Portfolio: [![Website](https://img.shields.io/badge/Website-arpitbhuker.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpitbhuker.vercel.app/)
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1YAls6EqMdVR8R5-At9twNxQJtCipPmYJ/view?usp=drive_link)
+- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/19v7DXgqYWD1fMjXTYWRQwQWprTLBL6Yp/view?usp=sharing)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbhuker&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbhuker" /> </p>
